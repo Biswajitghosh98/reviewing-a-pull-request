@@ -1,4 +1,4 @@
-## Welcome to GitHub Games
+## Welcome to awesome game of Tetris
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
@@ -9,6 +9,7 @@ To play the game:
 1. Click **Save**.
 1. Navigate to the URL provided in the same section.
 
+=======
 ### Instructions for playing the game
 
 1. Press the space bar to begin.
@@ -17,6 +18,10 @@ To play the game:
 4. The goal is to create complete rows with no empty spaces.
 5. When completed, the rows will disappear.
 6. To pause the game, just press the space bar again.
+
+```suggestion
+You can play the game at: https://Biswajitghosh98.github.io/github-games/
+```
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
